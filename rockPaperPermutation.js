@@ -1,3 +1,6 @@
+/* Given a number of rounds n, return all the possible rock-paper-scissors play
+possibilities for that number of rounds. */
+
 function rockPaperPermutation (roundCount) {
   var letters = ["r", "p", "s"];
   var result = [];
