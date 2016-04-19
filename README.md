@@ -43,3 +43,6 @@ It is possible to make 5 pence in the following ways:
 
 1 * 5p
 In other words, find all the possible combinations of coins that sum to a given pence value.
+
+6.  Linked List
+Implement a linked-list
