@@ -46,3 +46,7 @@ In other words, find all the possible combinations of coins that sum to a given 
 
 6.  Linked List
 Implement a linked-list
+
+
+7.  Largest Product Of Three
+Write a function that accepts an array of integers and returns the largest product possible from three of those numbers.
