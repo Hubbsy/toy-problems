@@ -50,3 +50,6 @@ Implement a linked-list
 
 7.  Largest Product Of Three
 Write a function that accepts an array of integers and returns the largest product possible from three of those numbers.
+
+8.  Eventing Library
+Make an eventing system mix-in that adds .trigger() and .on() to any input object.
