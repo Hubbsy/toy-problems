@@ -53,3 +53,6 @@ Write a function that accepts an array of integers and returns the largest produ
 
 8.  Eventing Library
 Make an eventing system mix-in that adds .trigger() and .on() to any input object.
+
+9.  Common Ancestor
+Implement the function getClosestCommonAncestor and getAncestorPath in the Tree class
