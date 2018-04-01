@@ -56,3 +56,6 @@ Make an eventing system mix-in that adds .trigger() and .on() to any input objec
 
 9.  Common Ancestor
 Implement the function getClosestCommonAncestor and getAncestorPath in the Tree class
+
+10. One Away
+Given a string write a functin to check if they are one or zero edits away
