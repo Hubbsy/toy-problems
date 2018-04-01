@@ -59,3 +59,6 @@ Implement the function getClosestCommonAncestor and getAncestorPath in the Tree 
 
 10. One Away
 Given a string write a functin to check if they are one or zero edits away
+
+11.  Zero Matrix
+Write an algorithm such that if an element in an MxN matrix is zero, the entire row and column will be zero
