@@ -33,7 +33,7 @@ function oneAway(string1, string2) {
 
   // if lengthDifferece is 1
   var longerStringIterator = 0
-  var shorterStringIterator = 1
+  var shorterStringIterator = 0
   while (longerStringIterator < longerString.length) {
     var difference = Math.abs(shorterStringIterator - longerStringIterator)
     if (difference > 1) {
