@@ -66,3 +66,7 @@ Write an algorithm such that if an element in an MxN matrix is zero, the entire 
 12. Palindrome Permutation
 Given a string, write a function to check if the string is a Permutation
 of a palindrome.
+
+13. String Rotation
+Assume you have a method isSubstring which checks if a word is a substring.
+Given two strings, see if the second string is a rotation of the first string
